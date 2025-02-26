@@ -1,2 +1,3 @@
-# TestRepo
-Risko Group Meeting 21/02/2025
+# RFB ML
+ML models for the prediction of oxidation potential in small organic molecules
+
