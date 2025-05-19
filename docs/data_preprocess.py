@@ -2,7 +2,6 @@
 This python script includes all necessary functions for the calculation of descriptors and subsequent
 preprocessing stage. 
 Created by: Ana Maria Juarez
-Parts of the code were obtained from the following sources:
 -
 -
 -
