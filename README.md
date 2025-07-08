@@ -15,8 +15,8 @@ It covers:
 ## Quick Start
 ```bash
 # clone the repo
-git clone https://github.com/your-username/oxidation-potential-ml.git
-cd oxidation-potential-ml
+git clone https://github.com/anamariajua/oxpotML.git
+cd oxpotML
 
 # create the conda environment
 conda env create -f environment.yml
